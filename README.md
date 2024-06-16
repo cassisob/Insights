@@ -44,7 +44,7 @@ The dataset representing this context is available on [House Sales Prediction Da
 
 ...
 
-## 5. Tools and Technologies
+## 5. Tools
 
 ...
 
